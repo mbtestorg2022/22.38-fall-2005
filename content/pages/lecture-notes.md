@@ -4,29 +4,428 @@ title: Lecture Notes
 uid: 1e789a8f-fa8d-3916-8110-ae7d9e36ad35
 ---
 
-| LEC # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I. The Logic of Certainty**{{< /td-colspan >}} |||
-| 1-2 |  {{< br >}}{{< br >}} I.1 Events and Boolean Operations {{< br >}}{{< br >}} I.2 Event Sequence Identification (Failure Modes and Effects Analysis; Hazard and Operability Analysis; Fault Tree Analysis; Event Tree Analysis) {{< br >}}{{< br >}} I.3 Coherent Structure Functions {{< br >}}{{< br >}} I.4 Minimal Cut (Path) Sets {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Risk-Informed Operational Decision Management (RIODM): {{< br >}}{{< br >}} 1\. Risk, Event Trees and Fault Trees (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec1_1))  {{< br >}}2\. Reliability and Availability (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec1_2)) {{< br >}}{{< br >}} Structure Functions ([PDF]({{< baseurl >}}/resources/sec1_struct_func)) {{< br >}}{{< br >}} Valve Test Example ([PDF]({{< baseurl >}}/resources/sec1_valve_test)) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**II. Probability**{{< /td-colspan >}} |||
-| 3-4 |  {{< br >}}{{< br >}} II.1 Definitions and Interpretations (Axiomatic; Subjectivistic; Frequentistic) {{< br >}}{{< br >}} II.2 Basic Rules {{< br >}}{{< br >}} II.3 Theorem of Total Probability {{< br >}}{{< br >}} II.4 Bayes' Theorem {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**III. Random Variables and Distribution Functions**{{< /td-colspan >}} |||
-| 5-6 |  {{< br >}}{{< br >}} III.1 Discrete and Continuous Random Variables {{< br >}}{{< br >}} III.2 Cumulative Distribution Functions {{< br >}}{{< br >}} III.3 Probability Mass and Density Functions {{< br >}}{{< br >}} III.4 Moments {{< br >}}{{< br >}} III.5 Failure Models and Reliability {{< br >}}{{< br >}} III.6 Failure Rates {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**IV. Useful Probability Distributions**{{< /td-colspan >}} |||
-| 7-8 |  {{< br >}}{{< br >}} IV.1 Bernoulli Trials and the Binomial Distribution {{< br >}}{{< br >}} IV.2 The Poisson Distribution {{< br >}}{{< br >}} IV.3 The Exponential Distribution {{< br >}}{{< br >}} IV.4 The Normal and Lognormal Distributions {{< br >}}{{< br >}} IV.5 The Concept of Correlation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Basic Probabilistic Concepts ([PDF]({{< baseurl >}}/resources/sec4_binomial)) {{< br >}}{{< br >}} Convergence of Binomial and Normal Distributions for Large Numbers of Trials ([PDF]({{< baseurl >}}/resources/sec4_binom_norm)) {{< br >}}{{< br >}} Convergence of Binomial and Poisson Distributions in Limiting Case of n Large, p<<1 ([PDF]({{< baseurl >}}/resources/sec4_binom_pois)) {{< br >}}{{< br >}} Plane Crash Example ([PDF]({{< baseurl >}}/resources/sec4_flight_case)) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**V. Multivariate Distributions**{{< /td-colspan >}} |||
-| 9-10 |  {{< br >}}{{< br >}} V.1 Joint and Conditional Distribution Functions {{< br >}}{{< br >}} V.2 Moments {{< br >}}{{< br >}} V.3 The Multivariate Normal and Lognormal Distributions {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**VI. Functions of Random Variables**{{< /td-colspan >}} |||
-| 11-12 |  {{< br >}}{{< br >}} VI.1 Single Random Variable {{< br >}}{{< br >}} VI.2 Multiple Random Variables {{< br >}}{{< br >}} VI.3 Moments of Functions of Random Variables {{< br >}}{{< br >}} VI.4 Approximate Evaluation of the Mean and Variance of a Function {{< br >}}{{< br >}} VI.5 Analytical Results for the Normal and Lognormal Distributions {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**VII. Statistical Methods**{{< /td-colspan >}} |||
-| 13-14 |  {{< br >}}{{< br >}} VII.1 Student's t-distribution {{< br >}}{{< br >}} VII.2 Chi-Squared Distribution {{< br >}}{{< br >}} VII.3 Hypothesis Testing {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**VIII. Elements of Statistics**{{< /td-colspan >}} |||
-| 15 |  {{< br >}}{{< br >}} VIII.1 Random Samples {{< br >}}{{< br >}} VIII.2 Method of Moments {{< br >}}{{< br >}} VIII.3 Method of Maximum Likelihood {{< br >}}{{< br >}} VIII.4 Probability Plotting {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**IX. Applications to Reliability**{{< /td-colspan >}} |||
-| 16 |  {{< br >}}{{< br >}} IX.1 Simple Logical Configurations (Series; Parallel; Standby Redundancy) {{< br >}}{{< br >}} IX.2 Complex Systems {{< br >}}{{< br >}} IX.3 Stress-Strength Interference Theory {{< br >}}{{< br >}} IX.4 Modeling of Loads and Strength {{< br >}}{{< br >}} IX.5 Reliability-Based Design {{< br >}}{{< br >}} IX.6 Elementary Markov Models {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Failure, Repair, Maintenance (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec9_failure)) {{< br >}}{{< br >}} Reliability and Availability ([PDF]({{< baseurl >}}/resources/sec9_reliability)) {{< br >}}{{< br >}} Operational Availability ([PDF]({{< baseurl >}}/resources/sec9_ops)) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**X. Bayesian Statistics**{{< /td-colspan >}} |||
-| 17 |  {{< br >}}{{< br >}} X.1 Bayes' Theorem and Inference {{< br >}}{{< br >}} X.2 Conjugate Families of Distributions {{< br >}}{{< br >}} X.3 Comparison with Frequentist Statistics {{< br >}}{{< br >}} X.4 Elicitation and Utilization of Expert Opinions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Bayes' Theorem (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec10_bayesian)) {{< br >}}{{< br >}} Bayesian Inference ([PDF]({{< baseurl >}}/resources/sec10_bayes_updt)) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**XI. Monte Carlo Simulation**{{< /td-colspan >}} |||
-| 18 |  {{< br >}}{{< br >}} XI.1 The Concept of Simulation {{< br >}}{{< br >}} XI.2 Generation of Random Numbers {{< br >}}{{< br >}} XI.3 Generation of Jointly Distributed Random Numbers {{< br >}}{{< br >}} XI.4 Latin Hypercube Sampling {{< br >}}{{< br >}} XI.5 Examples from Risk and Reliability Assessment {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**XII. Probabilistic Risk Assessment of Complex Systems**{{< /td-colspan >}} |||
-| 19-23 |  {{< br >}}{{< br >}} XII.1 Risk Curves and Accident Scenario Identification {{< br >}}{{< br >}} XII.2 Event-Tree and Fault-Tree Analysis {{< br >}}{{< br >}} XII.3 Unavailability Theory of Repairable and Periodically Tested Systems {{< br >}}{{< br >}} XII.4 Dependent (Common-Cause) Failures {{< br >}}{{< br >}} XII.5 Human Reliability Models {{< br >}}{{< br >}} XII.6 Component Importance {{< br >}}{{< br >}} XII.7 Examples from Risk Assessments for Nuclear Reactors, Chemical Process Systems, and Waste Repositories {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PRA: An Historical Perspective ([PDF - 1.8 MB]({{< baseurl >}}/resources/sec12_pra_aposta)) (Courtesy of Prof. George Apostolakis. Used with permission.) {{< br >}}{{< br >}} PRA Structure and Results ([PDF - 1.1 MB]({{< baseurl >}}/resources/sec12_pra_struct)) {{< br >}}{{< br >}} Uncertainty (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_uncertaint)) {{< br >}}{{< br >}} Types of Uncertainty ([PDF]({{< baseurl >}}/resources/sec12_types_unc)) {{< br >}}{{< br >}} Common Cause Failures 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_commonfa_1)) {{< br >}}{{< br >}} Common Cause Failures 2 ([PDF]({{< baseurl >}}/resources/sec12_commonfa_2)) {{< br >}}{{< br >}} PRA in Managing Operations (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_management)) {{< br >}}{{< br >}} Engineered Safety Features (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_esf)) {{< br >}}{{< br >}} Containment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_containmen)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. The Logic of Certainty**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+I.1 Events and Boolean Operations
+
+I.2 Event Sequence Identification (Failure Modes and Effects Analysis; Hazard and Operability Analysis; Fault Tree Analysis; Event Tree Analysis)
+
+I.3 Coherent Structure Functions
+
+I.4 Minimal Cut (Path) Sets
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Risk-Informed Operational Decision Management (RIODM):
+
+1\. Risk, Event Trees and Fault Trees (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec1_1))  
+2\. Reliability and Availability (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec1_2))
+
+Structure Functions ([PDF]({{< baseurl >}}/resources/sec1_struct_func))
+
+Valve Test Example ([PDF]({{< baseurl >}}/resources/sec1_valve_test))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Probability**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+II.1 Definitions and Interpretations (Axiomatic; Subjectivistic; Frequentistic)
+
+II.2 Basic Rules
+
+II.3 Theorem of Total Probability
+
+II.4 Bayes' Theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Random Variables and Distribution Functions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+III.1 Discrete and Continuous Random Variables
+
+III.2 Cumulative Distribution Functions
+
+III.3 Probability Mass and Density Functions
+
+III.4 Moments
+
+III.5 Failure Models and Reliability
+
+III.6 Failure Rates
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Useful Probability Distributions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+IV.1 Bernoulli Trials and the Binomial Distribution
+
+IV.2 The Poisson Distribution
+
+IV.3 The Exponential Distribution
+
+IV.4 The Normal and Lognormal Distributions
+
+IV.5 The Concept of Correlation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Basic Probabilistic Concepts ([PDF]({{< baseurl >}}/resources/sec4_binomial))
+
+Convergence of Binomial and Normal Distributions for Large Numbers of Trials ([PDF]({{< baseurl >}}/resources/sec4_binom_norm))
+
+Convergence of Binomial and Poisson Distributions in Limiting Case of n Large, p\<\<1 ([PDF]({{< baseurl >}}/resources/sec4_binom_pois))
+
+Plane Crash Example ([PDF]({{< baseurl >}}/resources/sec4_flight_case))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**V. Multivariate Distributions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+V.1 Joint and Conditional Distribution Functions
+
+V.2 Moments
+
+V.3 The Multivariate Normal and Lognormal Distributions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**VI. Functions of Random Variables**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+VI.1 Single Random Variable
+
+VI.2 Multiple Random Variables
+
+VI.3 Moments of Functions of Random Variables
+
+VI.4 Approximate Evaluation of the Mean and Variance of a Function
+
+VI.5 Analytical Results for the Normal and Lognormal Distributions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**VII. Statistical Methods**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+VII.1 Student's t-distribution
+
+VII.2 Chi-Squared Distribution
+
+VII.3 Hypothesis Testing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**VIII. Elements of Statistics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+VIII.1 Random Samples
+
+VIII.2 Method of Moments
+
+VIII.3 Method of Maximum Likelihood
+
+VIII.4 Probability Plotting
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IX. Applications to Reliability**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+IX.1 Simple Logical Configurations (Series; Parallel; Standby Redundancy)
+
+IX.2 Complex Systems
+
+IX.3 Stress-Strength Interference Theory
+
+IX.4 Modeling of Loads and Strength
+
+IX.5 Reliability-Based Design
+
+IX.6 Elementary Markov Models
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Failure, Repair, Maintenance (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec9_failure))
+
+Reliability and Availability ([PDF]({{< baseurl >}}/resources/sec9_reliability))
+
+Operational Availability ([PDF]({{< baseurl >}}/resources/sec9_ops))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**X. Bayesian Statistics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+X.1 Bayes' Theorem and Inference
+
+X.2 Conjugate Families of Distributions
+
+X.3 Comparison with Frequentist Statistics
+
+X.4 Elicitation and Utilization of Expert Opinions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bayes' Theorem (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec10_bayesian))
+
+Bayesian Inference ([PDF]({{< baseurl >}}/resources/sec10_bayes_updt))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**XI. Monte Carlo Simulation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+XI.1 The Concept of Simulation
+
+XI.2 Generation of Random Numbers
+
+XI.3 Generation of Jointly Distributed Random Numbers
+
+XI.4 Latin Hypercube Sampling
+
+XI.5 Examples from Risk and Reliability Assessment
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**XII. Probabilistic Risk Assessment of Complex Systems**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+XII.1 Risk Curves and Accident Scenario Identification
+
+XII.2 Event-Tree and Fault-Tree Analysis
+
+XII.3 Unavailability Theory of Repairable and Periodically Tested Systems
+
+XII.4 Dependent (Common-Cause) Failures
+
+XII.5 Human Reliability Models
+
+XII.6 Component Importance
+
+XII.7 Examples from Risk Assessments for Nuclear Reactors, Chemical Process Systems, and Waste Repositories
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PRA: An Historical Perspective ([PDF - 1.8 MB]({{< baseurl >}}/resources/sec12_pra_aposta)) (Courtesy of Prof. George Apostolakis. Used with permission.)
+
+PRA Structure and Results ([PDF - 1.1 MB]({{< baseurl >}}/resources/sec12_pra_struct))
+
+Uncertainty (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_uncertaint))
+
+Types of Uncertainty ([PDF]({{< baseurl >}}/resources/sec12_types_unc))
+
+Common Cause Failures 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_commonfa_1))
+
+Common Cause Failures 2 ([PDF]({{< baseurl >}}/resources/sec12_commonfa_2))
+
+PRA in Managing Operations (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_management))
+
+Engineered Safety Features (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_esf))
+
+Containment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_containmen))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
