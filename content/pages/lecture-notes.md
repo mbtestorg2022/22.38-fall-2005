@@ -48,8 +48,8 @@ I.4 Minimal Cut (Path) Sets
 
 Risk-Informed Operational Decision Management (RIODM):
 
-1\. Risk, Event Trees and Fault Trees (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec1_1))  
-2\. Reliability and Availability (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec1_2))
+1\. Risk, Event Trees and Fault Trees ([PDF]({{< baseurl >}}/resources/sec1_1))  
+2\. Reliability and Availability ([PDF]({{< baseurl >}}/resources/sec1_2))
 
 Structure Functions ([PDF]({{< baseurl >}}/resources/sec1_struct_func))
 
@@ -299,7 +299,7 @@ IX.6 Elementary Markov Models
 {{< tdopen >}}
 
 
-Failure, Repair, Maintenance (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec9_failure))
+Failure, Repair, Maintenance ([PDF]({{< baseurl >}}/resources/sec9_failure))
 
 Reliability and Availability ([PDF]({{< baseurl >}}/resources/sec9_reliability))
 
@@ -335,7 +335,7 @@ X.4 Elicitation and Utilization of Expert Opinions
 {{< tdopen >}}
 
 
-Bayes' Theorem (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec10_bayesian))
+Bayes' Theorem ([PDF]({{< baseurl >}}/resources/sec10_bayesian))
 
 Bayesian Inference ([PDF]({{< baseurl >}}/resources/sec10_bayes_updt))
 
@@ -409,19 +409,19 @@ PRA: An Historical Perspective ([PDF - 1.8 MB]({{< baseurl >}}/resources/sec12_p
 
 PRA Structure and Results ([PDF - 1.1 MB]({{< baseurl >}}/resources/sec12_pra_struct))
 
-Uncertainty (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_uncertaint))
+Uncertainty ([PDF]({{< baseurl >}}/resources/sec12_uncertaint))
 
 Types of Uncertainty ([PDF]({{< baseurl >}}/resources/sec12_types_unc))
 
-Common Cause Failures 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_commonfa_1))
+Common Cause Failures 1 ([PDF]({{< baseurl >}}/resources/sec12_commonfa_1))
 
 Common Cause Failures 2 ([PDF]({{< baseurl >}}/resources/sec12_commonfa_2))
 
-PRA in Managing Operations (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_management))
+PRA in Managing Operations ([PDF]({{< baseurl >}}/resources/sec12_management))
 
-Engineered Safety Features (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_esf))
+Engineered Safety Features ([PDF]({{< baseurl >}}/resources/sec12_esf))
 
-Containment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_containmen))
+Containment ([PDF]({{< baseurl >}}/resources/sec12_containmen))
 
 
 {{< tdclose >}}

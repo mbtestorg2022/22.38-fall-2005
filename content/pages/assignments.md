@@ -37,7 +37,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps2_sol))
+([PDF]({{< baseurl >}}/resources/ps2_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +56,7 @@ Problem Set 3 Extra Credit ([PDF]({{< baseurl >}}/resources/ps3_extracredit))
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps3_solutions))Extra Credit (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps3_extacrdt_sol))
+([PDF]({{< baseurl >}}/resources/ps3_solutions))Extra Credit ([PDF]({{< baseurl >}}/resources/ps3_extacrdt_sol))
 
 
 {{< tdclose >}}
@@ -73,7 +73,7 @@ Ang and Tang: Problems 3.31, 3.34, 3.38, 3.41, 3.48, 3.50, 3.59
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps4_solutions))
+([PDF]({{< baseurl >}}/resources/ps4_solutions))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ Rausand, and Hoyland: Problems 2.2, 2.8, 2.9, 2.27
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps5_sol))
+([PDF]({{< baseurl >}}/resources/ps5_sol))
 
 
 {{< tdclose >}}
@@ -107,7 +107,7 @@ Ang and Tang: Problems 4.5, 4.9, 4.19, 4.24, 4.31, 4.32
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps6_sol))
+([PDF]({{< baseurl >}}/resources/ps6_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +122,7 @@ Ang and Tang: Problems 5.3, 5.5, 5.10, 5.14, 6.7 b, c, 6.8
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps7_sol))
+([PDF]({{< baseurl >}}/resources/ps7_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +137,7 @@ Rausand and Hoyland: Problems 4.5, 4.6, 4.7 a, b, c, 4.12
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps8_sol))
+([PDF]({{< baseurl >}}/resources/ps8_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +146,7 @@ Rausand and Hoyland: Problems 4.5, 4.6, 4.7 a, b, c, 4.12
 Problem Set 9 ([PDF]({{< baseurl >}}/resources/ps9))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps9_sol))
+([PDF]({{< baseurl >}}/resources/ps9_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +155,7 @@ Problem Set 9 ([PDF]({{< baseurl >}}/resources/ps9))
 Problem Set 10 ([PDF]({{< baseurl >}}/resources/ps10))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps10_sol))
+([PDF]({{< baseurl >}}/resources/ps10_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
